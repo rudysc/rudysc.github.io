@@ -1,4 +1,4 @@
-var report_response = getParams("segment.js");
+var report_response = getParams("track.js");
 
 var action;
 var reportName = report_response.name
